@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "561159233557",
+    "firebase_url": "https://boardled-c7f47.firebaseio.com",
+    "project_id": "boardled-c7f47",
+    "storage_bucket": "boardled-c7f47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561159233557:android:5448f48cf40a199c",
+        "android_client_info": {
+          "package_name": "com.example.auto_switch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561159233557-a2tc1faofkj5kq5dns5rgukhrc830i0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM_CJYoib2f1Eo6Z8XeMcKShsFFpB1u7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561159233557-a2tc1faofkj5kq5dns5rgukhrc830i0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
